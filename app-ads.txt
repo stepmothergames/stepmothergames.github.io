@@ -6,6 +6,9 @@ facebook.com, 464491295089579, DIRECT, c3e20eee3f780d68
 facebook.com, 581667972582117, DIRECT, c3e20eee3f780d68
 facebook.com, 569137374512413, DIRECT, c3e20eee3f780d68
 facebook.com, 516250335505915, DIRECT, c3e20eee3f780d68
+facebook.com, 945865329414620, DIRECT, c3e20eee3f780d68
+facebook.com, 1588243984891727, DIRECT, c3e20eee3f780d68
+facebook.com, 390160966362865, DIRECT, c3e20eee3f780d68
 mintegral.com, [19006], DIRECT, 0aeed750c80d6423
 mintegral.com, [13654], DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
